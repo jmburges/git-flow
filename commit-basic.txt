@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 COMMIT-BASIC
 =======
-commit-remote
+commit-remoteaskasdf;oajwfe;oiajwef
 >>>>>>> feature-branch-remote
