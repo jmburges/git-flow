@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 COMMIT-BASIC
+=======
+commit-remote
+>>>>>>> feature-branch-remote
