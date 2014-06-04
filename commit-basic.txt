@@ -1,1 +1,1 @@
-commit-basic
+COMMIT-BASIC
